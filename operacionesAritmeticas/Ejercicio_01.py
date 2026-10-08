@@ -10,5 +10,3 @@ num2 = float(input("Introduce otro numero:"))
 media = float(num1 + num2 / 2)
 
 print(f"La media de {num1} y {num2} es: {media}")
-
-

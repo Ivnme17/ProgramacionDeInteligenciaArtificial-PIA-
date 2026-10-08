@@ -12,4 +12,3 @@ celsius_a_fahrenheit = 1.8 * temperatura_en_Celsius + 32
 
 
 print(f"La temperatura {temperatura_en_Celsius} ºC en Fahrenheit es de {celsius_a_fahrenheit} ºF")
-

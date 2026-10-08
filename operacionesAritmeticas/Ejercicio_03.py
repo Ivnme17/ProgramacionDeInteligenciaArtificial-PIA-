@@ -42,4 +42,3 @@ pies_a_pulgadas = pies * 12
 pulgadas_totales = pies_a_pulgadas + 2.54
 
 print(f"{pies} pies son {centimetros} cm")
-

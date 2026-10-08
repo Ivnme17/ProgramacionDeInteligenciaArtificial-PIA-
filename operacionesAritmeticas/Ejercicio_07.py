@@ -9,4 +9,3 @@ minutos = float(input("Introduce minutos"))
 segundos = round(minutos * 60)
 
 print(f"{minutos} minutos son {segundos} segundos")
-

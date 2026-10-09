@@ -23,8 +23,6 @@ elif(anio_actual == anio):
 Mejore el programa anterior haciendo que, cuando la diferencia sea exactamente un año, escriba la
 frase en singular.
 '''
-anio_actual = int(input("Introduce el anio actual: "))
-
 anio = int(input("Introduce un anio cualquiera: "))
 
 if(anio_actual > anio):
